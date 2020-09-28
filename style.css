@@ -1,0 +1,143 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 562.5%;
+  margin: 50px auto 0 auto;
+  font-family: 'sacramento', serif;
+  color: #006a71;
+}
+
+h2 {
+  font-size: 2.18rem;
+  color: #006a71;
+  font-weight: normal;
+}
+
+h3 {
+  color: #68b0ab;
+}
+hr{
+  border: dotted #16213e 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 50px auto 50px auto;
+}
+a{
+  color: #eeeeee;
+  font-family: 'Merriweather' , serif;
+  margin: 10px 20px 10px 20px;
+
+  text-decoration: none;
+}
+a:hover{
+  color: #ffc93c;
+}
+.top {
+  background-color: #ecf4f3;
+  padding-top: 100px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+/*
+middle-container{
+
+}
+
+bottom-container{
+
+}
+*/
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 600px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.mountain{
+  padding-bottom: 30px;
+}
+.coder{
+  padding-top: 20px;
+  width: 10%;
+}
+.intro{
+  margin: auto;
+  width: 25%;
+}
+.chilli {
+  float: right;
+  padding-left: 30px;
+  padding-bottom: 30px;
+  height: 180px;
+  width: 200px;
+}
+
+.web {
+  height: 200px;
+  width: 250px;
+  float: left;
+  padding-right: 30px;
+}
+
+.website {
+  font-size: 20px;
+  color: #68b0ab;
+}
+
+.footer-link {
+  color: #f4f4f4;
+    padding-top: 10px;
+}
+.abc{
+  padding-top: 10px;
+  color: #212121;
+  font-size: 0.74em;
+
+}
+.bottom-container{
+  background-color: #0d7377;
+  padding: 50px 0 20px;
+}
+.contact-me{
+  margin: 40px auto 60px auto;
+}
+.myButton {
+	box-shadow: 0 0 17px 0 #f0f7fa;
+	background:linear-gradient(to bottom, #32e0c4 5%, #019ad2 100%);
+	background-color:#32e0c4;;
+
+	border-radius:41px;
+	border:3px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:17px;
+	font-weight:bold;
+	padding:13px 21px;
+	text-decoration:none;
+	text-shadow:0 -3px 0 #5b6178;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #32e0c4 100%);
+	background-color:#019ad2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
